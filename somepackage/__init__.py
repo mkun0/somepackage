@@ -8,3 +8,6 @@ __all__ = [
     'shout_and_repeat',
     'my_add',
 ]
+
+def function1(argument1):
+    return argument1
