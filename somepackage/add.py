@@ -14,3 +14,6 @@ def new_function(argument1):
     result = argument1
 
     return result
+
+def new_function1(argument1):
+    return argument1

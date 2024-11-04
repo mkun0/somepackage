@@ -26,3 +26,9 @@ def _shout(text):
     """
     result = text.upper()
     return result
+
+def ex_function1(argument1):
+    return argument1
+
+def ex_function2(argument2):
+    return argument2
