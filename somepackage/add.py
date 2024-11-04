@@ -8,3 +8,9 @@ def my_add(argument1, argument2):
     """
     result = argument1 + argument2
     return result
+
+def new_function(argument1):
+    "Example function that returns the argument"
+    result = argument1
+
+    return result
